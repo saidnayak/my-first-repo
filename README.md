@@ -1,5 +1,10 @@
 # My First Repo 🚀
 
+![GitHub repo size](https://img.shields.io/github/repo-size/saidnayak/my-first-repo)
+![GitHub stars](https://img.shields.io/github/stars/saidnayak/my-first-repo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/saidnayak/my-first-repo?style=social)
+![GitHub license](https://img.shields.io/github/license/saidnayak/my-first-repo)
+
 Welcome to my very first GitHub repository! 🎉  
 
 ## What's inside?
